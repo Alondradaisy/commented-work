@@ -1,0 +1,5 @@
+/node_modules
+
+.env
+
+//file that activates ignoring certian files (especially those that can be pretty dense for operating system to process)
